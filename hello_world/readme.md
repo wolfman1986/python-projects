@@ -1,34 +1,39 @@
-Hello World Project
+# Hello World Project
+
 This project is a simple Python script that prints a greeting message to the console.
 
-Overview
-The hello_world.py file is meant to demonstrate a basic Python program structure. In a typical version of this script, running the file displays a short message such as Hello, World! in the terminal.
+## Overview
 
-What the code does
-Runs as a Python script.
+The `hello_world.py` file demonstrates a basic Python program structure. When you run it, it displays a short message such as `Hello, World!` in the terminal.
 
-Prints a simple text message to the screen.
+## What the code does
 
-Serves as a beginner-friendly example for learning how Python scripts execute.
+- Runs as a Python script.
+- Prints a simple text message to the screen.
+- Serves as a beginner-friendly example for learning how Python scripts execute.
 
-How to run
-Make sure Python is installed.
+## How to run
 
-Open a terminal in the project folder.
+1. Make sure Python is installed.
+2. Open a terminal in the project folder.
+3. Run:
 
-Run:
-
-bash
+```bash
 python hello_world.py
-Example output
-text
+```
+
+## Example output
+
+```text
 Hello, World!
-Purpose
+```
+
+## Purpose
+
 This kind of project is commonly used to practice:
 
-Writing a first Python script.
-
-Running code from the command line.
+- Writing a first Python script.
+- Running code from the command line.
 
 Understanding basic program output.
 
